@@ -1,4 +1,4 @@
-﻿namespace Search1
+﻿namespace Search1.src
 {
     public class News
     {
